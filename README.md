@@ -1,5 +1,4 @@
 # Circular Histogram Oriented Gradient Feature Extraction
-# Circular Histogram Oriented Gradient Feature Extraction
 
 This repository contains Python code for extracting Circular Histogram Oriented Gradient (CHOG) features from images, utilizing Local Binary Pattern (LBP) and Histogram of Oriented Gradients (HOG) techniques. This feature extraction is particularly useful in computer vision applications, enabling enhanced image classification and pattern recognition.
 
